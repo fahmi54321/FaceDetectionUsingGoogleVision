@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "59 Face Detection Using Google Vision"
